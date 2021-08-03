@@ -1,4 +1,5 @@
 # THM-Simple-CTF-Writeup
+https://tryhackme.com/room/easyctf
 
 First step is to enumerate all the open ports that exists in the target,
 to get this I use nmap, the command is:
